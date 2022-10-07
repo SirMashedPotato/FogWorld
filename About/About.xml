@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>FogWorld</name>
+	<packageId>SirMashedPotato.FogWorld</packageId>
+	<author>SirMashedPotato</author>
+	<supportedVersions>
+    	<li>1.2</li>
+    	<li>1.3</li>
+    	<li>1.4</li>
+	</supportedVersions>
+	<description>A toggleable Harmony patch that prevents all non-foggy weather from occurring, for that Silent Hill atmosphere.\n\nYou can also enable an optional patch that lowers the lighting level during fog. This can even be enabled independently from the main patch!\n\nAny weather that is forced will still be allowed to occur.\n\n-Requires Harmony.\n-Preview image photo taken by Paul Gilmore, @pueblovista.
+	</description>
+	
+	<modDependencies>
+	  <li>
+        <packageId>brrainz.harmony</packageId>
+		<displayName>Harmony</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      </li>
+    </modDependencies>
+	<loadAfter>
+	  <li>brrainz.harmony</li>
+    </loadAfter>
+	<incompatibleWith>
+    </incompatibleWith>
+</ModMetaData>

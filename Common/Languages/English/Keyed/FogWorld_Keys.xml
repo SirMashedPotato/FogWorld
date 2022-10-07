@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="XSD_FILE_PATH">
+
+    <SMP_SettingsEnableFogWorld>Enable FogWorld</SMP_SettingsEnableFogWorld>
+	<SMP_SettingsEnableLightingChange>Enable fog weathers decreasing lighting levels.</SMP_SettingsEnableLightingChange>
+	<SMP_SettingsEnableLightingFactor>The amount lighting levels are decreased by.</SMP_SettingsEnableLightingFactor>
+	<SMP_SettingsReset>Reset Settings</SMP_SettingsReset>
+	
+</LanguageData>
